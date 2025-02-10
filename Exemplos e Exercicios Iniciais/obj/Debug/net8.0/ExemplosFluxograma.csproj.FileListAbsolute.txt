@@ -1,0 +1,14 @@
+C:\Users\Vinicio\source\repos\ExemplosFluxograma\obj\Debug\net8.0\ExemplosFluxograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicio\source\repos\ExemplosFluxograma\obj\Debug\net8.0\ExemplosFluxograma.AssemblyInfoInputs.cache
+C:\Users\Vinicio\source\repos\ExemplosFluxograma\obj\Debug\net8.0\ExemplosFluxograma.AssemblyInfo.cs
+C:\Users\Vinicio\source\repos\ExemplosFluxograma\obj\Debug\net8.0\ExemplosFluxograma.csproj.CoreCompileInputs.cache
+C:\Users\Vinicio\source\repos\ExemplosFluxograma\bin\Debug\net8.0\ExemplosFluxograma.exe
+C:\Users\Vinicio\source\repos\ExemplosFluxograma\bin\Debug\net8.0\ExemplosFluxograma.deps.json
+C:\Users\Vinicio\source\repos\ExemplosFluxograma\bin\Debug\net8.0\ExemplosFluxograma.runtimeconfig.json
+C:\Users\Vinicio\source\repos\ExemplosFluxograma\bin\Debug\net8.0\ExemplosFluxograma.dll
+C:\Users\Vinicio\source\repos\ExemplosFluxograma\bin\Debug\net8.0\ExemplosFluxograma.pdb
+C:\Users\Vinicio\source\repos\ExemplosFluxograma\obj\Debug\net8.0\ExemplosFluxograma.dll
+C:\Users\Vinicio\source\repos\ExemplosFluxograma\obj\Debug\net8.0\refint\ExemplosFluxograma.dll
+C:\Users\Vinicio\source\repos\ExemplosFluxograma\obj\Debug\net8.0\ExemplosFluxograma.pdb
+C:\Users\Vinicio\source\repos\ExemplosFluxograma\obj\Debug\net8.0\ExemplosFluxograma.genruntimeconfig.cache
+C:\Users\Vinicio\source\repos\ExemplosFluxograma\obj\Debug\net8.0\ref\ExemplosFluxograma.dll

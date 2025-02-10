@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vinicio\\source\\repos\\ExemplosFluxograma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53965CDA-BA32-4226-A8F8-C2F77F8E9FED}|ExemplosFluxograma.csproj|c:\\users\\vinicio\\source\\repos\\exemplosfluxograma\\exemplo\\exemplos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53965CDA-BA32-4226-A8F8-C2F77F8E9FED}|ExemplosFluxograma.csproj|solutionrelative:exemplo\\exemplos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53965CDA-BA32-4226-A8F8-C2F77F8E9FED}|ExemplosFluxograma.csproj|c:\\users\\vinicio\\source\\repos\\exemplosfluxograma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53965CDA-BA32-4226-A8F8-C2F77F8E9FED}|ExemplosFluxograma.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exemplos.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicio\\source\\repos\\ExemplosFluxograma\\Exemplo\\Exemplos.cs",
+              "RelativeDocumentMoniker": "Exemplo\\Exemplos.cs",
+              "ToolTip": "C:\\Users\\Vinicio\\source\\repos\\ExemplosFluxograma\\Exemplo\\Exemplos.cs",
+              "RelativeToolTip": "Exemplo\\Exemplos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T17:03:19.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicio\\source\\repos\\ExemplosFluxograma\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Vinicio\\source\\repos\\ExemplosFluxograma\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T23:57:52.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
