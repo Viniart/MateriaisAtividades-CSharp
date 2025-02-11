@@ -74,13 +74,11 @@
         - [ ]  Array/Vetor
     - [ ]  Métodos
         - [ ]  Argumentos
-    - [ ]  Estururas
+    - [ ]  Estruturas
         - [ ]  Condicional
             - [ ]  Simples
             - [ ]  Composta
     - [ ]  Laços de repetição
-        - [ ]  Contado
-        - [ ]  Condicional
     - [ ]  Operadores lógicos
         - [ ]  E
         - [ ]  OU
@@ -137,13 +135,11 @@
         - [ ]  Array/Vetor
     - [ ]  Métodos
         - [ ]  Argumentos
-    - [ ]  Estururas
+    - [ ]  Estruturas
         - [ ]  Condicional
             - [ ]  Simples
             - [ ]  Composta
     - [ ]  Laços de repetição
-        - [ ]  Contado
-        - [ ]  Condicional
     - [ ]  Operadores lógicos
         - [ ]  E
         - [ ]  OU
@@ -255,13 +251,11 @@
         - [ ]  Array/Vetor
     - [ ]  Métodos
         - [ ]  Argumentos
-    - [ ]  Estururas
+    - [ ]  Estruturas
         - [ ]  Condicional
             - [ ]  Simples
             - [ ]  Composta
     - [ ]  Laços de repetição
-        - [ ]  Contado
-        - [ ]  Condicional
     - [ ]  Operadores lógicos
         - [ ]  E
         - [ ]  OU
